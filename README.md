@@ -1,4 +1,9 @@
 # README
+ Ruby on Rails Tutorial: "hello, world!"
+
+Це перший додаток для
+[*Ruby on Rails Tutorial*](http://www.railstutorial.org/)
+ [Майкл Хартл](http://www.michaelhartl.com/).
 
 This README would normally document whatever steps are necessary to get the
 application up and running.
